@@ -18,7 +18,7 @@ Dalys:
 |                        |          |                        |
 
 Schema:
-![[scheme.png]]
+![Schema](scheme.png)
 Kas veikia/neveikia.
 Veikia trys servo, kurie gali judeti skirtingais ritmais. Neveikia, tikslus laiko valdymas ir, kai per maži laiko tarpai pradeda daryti nepilnius judesius.
 
